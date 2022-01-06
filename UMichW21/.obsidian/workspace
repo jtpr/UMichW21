@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "a15a70e8ab024422",
+    "type": "split",
+    "children": [
+      {
+        "id": "0482b112e8fdabd9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "COMP - L1 -  About and Intro.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "217f9687664875e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eb371544d795141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d2b3d6093f4ee5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b085806ecfacd1fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "57dcadd9d1b77b39",
+    "type": "split",
+    "children": [
+      {
+        "id": "d72b59c514746836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9654923364fafe2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COMP - L1 -  About and Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0482b112e8fdabd9",
+  "lastOpenFiles": [
+    "COMP - L1 -  About and Intro.md",
+    "COMP/COMP - Home.md",
+    "COMP/COMP - Syllabus Notes.md",
+    "BAND - Campus Band.md",
+    "Home.md",
+    "ECON/ECON - Principles of Economics I.md",
+    "SANC/cee_375_syllabus_w2022.pdf",
+    "SANC/SANC - Syllabus Notes.md",
+    "SANC/SANC - Home.md",
+    "ECON - Syllabus Notes.md"
+  ]
+}
