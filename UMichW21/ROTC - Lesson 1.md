@@ -1,0 +1,62 @@
+# ROTC - Lesson 1
+
+### Cog's Ladder Review
+![[Pasted image 20220113140912.png]]
+- Developed by George O. Charrier
+	- Exec at P&G -> P&G strategy is the gold standard
+	- General team dynamics
+- Polite Stage
+	- Attributes
+		- Forming opinions on each other (silent judgement)
+		- Low productivity
+	- Goals
+		- Avoid controversy
+		- Get antiquated
+- Why we're here stage
+	- Attributes
+		- Define goals and objectives
+		- You start to learn more of each other and how you react to the mission
+		- Hidden agendas are within the group
+		- Cliques start to build power
+		- Decline in need for group approval
+		- Low group identity
+	- Goals
+		- Build structure
+		- Determine goals
+		- Low productivity
+- Bid for power stage
+	- Attributes
+		- Conflicting views on direction
+		- Struggle for leadership
+		- Competition increases
+		- Cliques are much more important
+	- Goals
+		- Who's leading and where are you going
+- Constructive stage
+	- Attributes
+		- Members are more willing to compromise (we vs me)
+		- Open questioning (more apt to voice opinions)
+		- Conflict is a group problem, not a win-lose battle
+		- Progress toward collaboration
+	- Goals
+		- Accomplish task at hard through group effort
+- Esprit
+	- Attributes
+		- High Morale
+		- Strong group identity and loyalty
+		- The clique is the team
+			- This can cause issues when new members are assigned, they're not in the club, and you may need to join the club or make a new one
+			- It depends on the team --> 
+		- Closed membership
+		- Constructive actions
+	- Goals
+		- Accomplish the task through group effort
+		- Maintain group identity
+		- Enhance group reputation
+
+### Moving Between the stages
+- Polite -> why we're here
+	- Relinquish comfort and accept risk (possibility of conflict)
+	- Get rid of your expectations
+- WHy -> Bid for Power
+	- Commit to the team purpose and accept risk

@@ -6,6 +6,9 @@ These are a list of my classes:
 [[SMEC - Home]]
 [[SANC - Home]]
 [[COMP - Home]]
-[[ECON - Principles of Economics I]]
+[[ECON - Home]]
 [[BAND - Campus Band]]
 [[ROTC - Home]]
+
+Here are some other things I have been working on
+[[WCF - Career Fair Prep]]

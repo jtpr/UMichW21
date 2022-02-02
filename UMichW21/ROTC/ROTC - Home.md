@@ -7,3 +7,10 @@
 	- Thursday 1400-1500
 
 [[ROTC - Syllabus Notes]]
+[[ROTC - Wellness Program]]
+[[ROTC - Initial Feedback]]
+[[ROTC - PSP Information from Col. Smith]]
+
+[[ROTC - Lesson 1]]
+[[ROTC - Lesson 2]]
+[[ROTC - Lesson 3]]

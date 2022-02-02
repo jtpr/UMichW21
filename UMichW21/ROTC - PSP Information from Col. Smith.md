@@ -1,0 +1,44 @@
+# PSP Information
+
+- The number was much lower that they thought last year. 
+- The AF is still in an overage.
+	- The PGL is lower yet again
+	- Somewhere between 40% - 60% selection rate again
+- What is the board looking for?
+	- Order of Merit
+		- Leadership - 45%
+			- 5% automatic
+		- 40% Academics
+			- 10% - Fall 2021 Cumulative GPA
+			- 15% - AFOQT Quantitative
+			- 15% - AFOQT Verbal
+		- 15% PFA
+- Categories
+	- Rated - OM is slightly lower - if you’re close to the line
+	- Tech - OM could be lower? We aren’t sure
+	- Non-Tech - It could also be the same cut line as the Tech EA. 
+- When does this happen?
+	- We anticipate learning in Early March
+	- 31 Jan is the cutoff
+	- DoDMERB has to be qualified by March 1
+
+## Q&A
+- The leadership rack and stack is pretty much done.
+	- You are rated against the people going up to the board. Not including those who dropped from the program before PSP.
+- Everyone is rated 1-n 
+	- The cutoff is where they give you a slot or not
+	- 3 cutoffs (Rated, Tech, non Tech)
+	- There are also slots for Nurses and Electrical Engineers
+- No idea on Space Force EAs
+	- Both under the DAF, they don’t really care about where you go.
+- The subreddit is generally not accurate at that time, wait for Col. Smith
+- AFROTC Town Halls tomorrow 1530 EST
+- Your hard and fast numbers have generally not changed since last semester. 
+- What if you lose your scholarship
+	- Assuming from last year → no recumbent, no call to enlist.
+	- Very easy to transfer to Army ROTC, Navy ROTC has much more involved first two years.
+	- Scholarships don’t transfer over
+- Civilian Jobs within the DAF don’t you to continue in the program.
+	- You need an EA period.
+- Your choice to finish out the year if you don’t get and EA.
+- Talk plan B’s starting with Major Kober, than any of the Cadre. 

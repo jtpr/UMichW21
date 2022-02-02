@@ -11,7 +11,7 @@
 [[COMP - Syllabus Notes]]
 
 ## Useful Links
+- [Canvas](https://umich.instructure.com/courses/491864)
 - [[Numerical Methods for Engineers (7th Ed).pdf]]
 
-## Lecture Notes
-- [[COMP - L1 -  About and Intro]]
+## Notes
