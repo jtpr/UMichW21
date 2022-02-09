@@ -15,3 +15,6 @@
 - [[Numerical Methods for Engineers (7th Ed).pdf]]
 
 ## Notes
+[[COMP - Lecture 9 - Data Structures]]
+[[COMP - Jupyter Testing]]
+[[COMP - Project 2 Spec]]

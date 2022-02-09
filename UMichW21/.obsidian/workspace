@@ -7,9 +7,11 @@
         "id": "2f2ffdd8671f2180",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "SMEC/Mechanics of Materials (4th Edition).pdf"
+            "file": "COMP - Project 2 Spec.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMEC/Mechanics of Materials (4th Edition).pdf",
+                "file": "COMP - Project 2 Spec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +90,15 @@
   },
   "active": "2f2ffdd8671f2180",
   "lastOpenFiles": [
+    "COMP - Project 2 Spec.md",
+    "COMP/COMP - Home.md",
+    "COMP - Jupyter Testing.md",
+    "COMP - Lecture 9 - Data Structures.md",
     "SMEC/Mechanics of Materials (4th Edition).pdf",
     "SMEC/SMEC - Home.md",
     "SMEC.md",
     "ROTC - Lesson 3.md",
     "ROTC/ROTC - Home.md",
-    "ECON - Syllabus Notes.md",
-    "ECON/ECON - Home.md",
-    "COMP/Numerical Methods for Engineers (7th Ed).pdf",
-    "WCF - Career Fair Prep.md",
-    "WCF- Notes on conversation.md"
+    "ECON - Syllabus Notes.md"
   ]
 }
