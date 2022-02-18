@@ -16,5 +16,8 @@
 
 ## Notes
 [[COMP - Lecture 9 - Data Structures]]
+[[COMP - Lecture 10 - Data Structures 2]]
 [[COMP - Jupyter Testing]]
 [[COMP - Project 2 Spec]]
+[[COMP - Lecture 11 from Jupyter]]
+[[COMP - Lecture 12 - Databases]]

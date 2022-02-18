@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2f2ffdd8671f2180",
+        "id": "e1ce00d2526a3bf7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "COMP - Project 2 Spec.md",
-            "mode": "preview",
+            "file": "ROTC - Stress Management.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMP - Project 2 Spec.md",
+                "file": "ROTC - Stress Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f2ffdd8671f2180",
+  "active": "e1ce00d2526a3bf7",
   "lastOpenFiles": [
-    "COMP - Project 2 Spec.md",
-    "COMP/COMP - Home.md",
-    "COMP - Jupyter Testing.md",
-    "COMP - Lecture 9 - Data Structures.md",
-    "SMEC/Mechanics of Materials (4th Edition).pdf",
-    "SMEC/SMEC - Home.md",
-    "SMEC.md",
-    "ROTC - Lesson 3.md",
+    "ROTC - Stress Management.md",
     "ROTC/ROTC - Home.md",
-    "ECON - Syllabus Notes.md"
+    "COMP/Numerical Methods for Engineers (7th Ed).pdf",
+    "COMP/COMP - Home.md",
+    "SMEC/Mechanics of Materials (4th Edition).pdf",
+    "COMP/COMP - Project 2 Spec.md",
+    "COMP - L12 Database Example 1.md",
+    "COMP - Lecture 12 - Databases.md",
+    "COMP - L12 Database Example 2.md",
+    "COMP/COMP - Jupyter Testing.md"
   ]
 }
