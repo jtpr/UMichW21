@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ROTC - Stress Management.md",
+            "file": "EXT - CEE Externship.md",
             "mode": "source",
             "source": true
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROTC - Stress Management.md",
+                "file": "EXT - CEE Externship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "e1ce00d2526a3bf7",
   "lastOpenFiles": [
-    "ROTC - Stress Management.md",
-    "ROTC/ROTC - Home.md",
-    "COMP/Numerical Methods for Engineers (7th Ed).pdf",
-    "COMP/COMP - Home.md",
-    "SMEC/Mechanics of Materials (4th Edition).pdf",
-    "COMP/COMP - Project 2 Spec.md",
+    "EXT - CEE Externship.md",
+    "Home.md",
+    "COMP/COMP - Lecture 10 - Data Structures 2.md",
+    "COMP/COMP - Lecture 9 - Data Structures.md",
     "COMP - L12 Database Example 1.md",
     "COMP - Lecture 12 - Databases.md",
-    "COMP - L12 Database Example 2.md",
-    "COMP/COMP - Jupyter Testing.md"
+    "COMP/COMP - Home.md",
+    "COMP/COMP - Lecture 11 from Jupyter.md",
+    "ROTC - Stress Management.md",
+    "ROTC/ROTC - Home.md"
   ]
 }

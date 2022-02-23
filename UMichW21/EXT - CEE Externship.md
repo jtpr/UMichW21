@@ -1,0 +1,33 @@
+# CEE Externship Notes
+
+## Session 1
+- What is construction management
+	- 3 Groups
+		- Builders
+			- The actual people who put stuff in the ground
+			- Barton Mallow, etc
+			- Construction Engineers
+		- Owners
+			- UMich is a huge one
+		- Designer
+			- Architects
+				- Lots of design concepts!
+			- Engineers
+				- This is how the concept will work and how to build it (structural)
+			- Black and Vetch 
+	- Subgroups
+		- Construction Managers
+			- Contract with owner
+			- get the plans
+			- This is how we bundle everything and get it there
+			- MANAGER
+		- General Contractors
+			- Perform certain tasks (Carpenters, riggers, iron workers)
+			- Manages subcontractors
+		- Subcontractors
+			- Does one certain tasks
+- Different companies have different specializations
+	- Barton Malow - education work, medical buildings, energy (solar and wind), not too much on roads or highways. 
+- Hiring entry level folks
+	- That you do something outside of school
+	- You need something outside of work to unite you
