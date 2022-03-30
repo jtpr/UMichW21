@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EXT - CEE Externship.md",
-            "mode": "source",
+            "file": "COMP - L12 Database Example 1.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EXT - CEE Externship.md",
+                "file": "COMP - L12 Database Example 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "e1ce00d2526a3bf7",
   "lastOpenFiles": [
-    "EXT - CEE Externship.md",
-    "Home.md",
-    "COMP/COMP - Lecture 10 - Data Structures 2.md",
-    "COMP/COMP - Lecture 9 - Data Structures.md",
     "COMP - L12 Database Example 1.md",
     "COMP - Lecture 12 - Databases.md",
     "COMP/COMP - Home.md",
-    "COMP/COMP - Lecture 11 from Jupyter.md",
-    "ROTC - Stress Management.md",
-    "ROTC/ROTC - Home.md"
+    "EXT - Session 4.md",
+    "EXT - CEE Externship.md",
+    "SMEC/Mechanics of Materials (4th Edition).pdf",
+    "SMEC.md",
+    "EXT - Session 3.md",
+    "EXT - Session 2.md",
+    "COMP - L12 Database Example 2.md"
   ]
 }
